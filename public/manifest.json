@@ -1,6 +1,6 @@
 {
-  "name": "Micrófono Flotante",
-  "short_name": "MicFlotante",
+  "name": "microkzi",
+  "short_name": "microkzi",
   "start_url": "/",
   "display": "standalone",
   "background_color": "#09090b",
