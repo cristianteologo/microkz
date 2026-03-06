@@ -3,7 +3,12 @@ const ASSETS = [
   '/',
   '/index.html',
   '/manifest.json',
-  '/icon.svg'
+  '/icon.svg',
+  '/icon-192.png',
+  '/icon-512.png',
+  '/icon-512-maskable.png',
+  '/screenshot-mobile.png',
+  '/screenshot-desktop.png'
 ];
 
 self.addEventListener('install', (event) => {
