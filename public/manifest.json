@@ -1,4 +1,5 @@
 {
+  "id": "microkzi-app-v1",
   "name": "microkzi",
   "short_name": "microkzi",
   "start_url": "/",
@@ -10,9 +11,35 @@
   "icons": [
     {
       "src": "/icon.svg",
-      "sizes": "192x192 512x512",
+      "sizes": "any",
       "type": "image/svg+xml",
+      "purpose": "any"
+    },
+    {
+      "src": "https://placehold.co/192x192/09090b/ffffff.png?text=M",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "https://placehold.co/512x512/09090b/ffffff.png?text=M",
+      "sizes": "512x512",
+      "type": "image/png",
       "purpose": "any maskable"
+    }
+  ],
+  "screenshots": [
+    {
+      "src": "https://placehold.co/1080x1920/09090b/ffffff.png?text=App+Screenshot",
+      "sizes": "1080x1920",
+      "type": "image/png",
+      "form_factor": "narrow"
+    },
+    {
+      "src": "https://placehold.co/1920x1080/09090b/ffffff.png?text=Desktop+Screenshot",
+      "sizes": "1920x1080",
+      "type": "image/png",
+      "form_factor": "wide"
     }
   ]
 }
