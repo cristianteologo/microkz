@@ -1,7 +1,7 @@
 {
-  "id": "microkzi-app-v1",
-  "name": "microkzi",
-  "short_name": "microkzi",
+  "id": "microbro-app-v1",
+  "name": "microbro",
+  "short_name": "microbro",
   "start_url": "/",
   "display": "standalone",
   "background_color": "#09090b",

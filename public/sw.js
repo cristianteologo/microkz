@@ -1,4 +1,4 @@
-const CACHE_NAME = 'mic-flotante-v1';
+const CACHE_NAME = 'microbro-v1';
 const ASSETS = [
   '/',
   '/index.html',

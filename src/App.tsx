@@ -55,7 +55,7 @@ export default function App() {
       </div>
 
       <div className="text-center text-zinc-400 max-w-md p-6 relative z-10">
-        <h1 className="text-3xl font-light text-white mb-4 tracking-tight">microkzi</h1>
+        <h1 className="text-3xl font-light text-white mb-4 tracking-tight">microbro</h1>
         <p className="mb-6 leading-relaxed">
           Un botón flotante premium con diseño glassmorfismo y físicas de resorte.
         </p>
